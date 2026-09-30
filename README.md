@@ -70,7 +70,7 @@ pip install flask pandas numpy scikit-learn catboost
 python app.py
 ```
 
-Then open http://127.0.0.1:5000 in a browser. Flask looks for `index.html` inside a `templates/` folder.
+Then open http://127.0.0.1:5000 in your browser to access the application locally. Flask looks for `index.html` inside a `templates/` folder.
 
 ## Repository Structure
 
